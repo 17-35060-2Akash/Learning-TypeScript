@@ -1,11 +1,6 @@
-let userName = "Akash";
 let age = 25;
-let fullName: string;
 const character: boolean = true;
-fullName = "N A Akash";
-console.log(userName);
 console.log(age);
-console.log(fullName);
 console.log(character);
 
 
