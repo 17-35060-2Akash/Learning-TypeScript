@@ -1,5 +1,6 @@
 // let userNames: string[];
 // let userIds:number[];
+// let userIds:number[];
 
 let userNames: Array<string>;
 
