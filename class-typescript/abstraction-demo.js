@@ -36,3 +36,4 @@ var Student = /** @class */ (function (_super) {
     ;
     return Student;
 }(User));
+var student1 = new Student('Akash', 23, 110);

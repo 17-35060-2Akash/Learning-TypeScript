@@ -15,6 +15,7 @@ var __extends = (this && this.__extends) || (function () {
     };
 })();
 exports.__esModule = true;
+exports.User = void 0;
 var User = /** @class */ (function () {
     function User(userName, age) {
         var _this = this;
@@ -27,6 +28,7 @@ var User = /** @class */ (function () {
     ;
     return User;
 }());
+exports.User = User;
 var Student = /** @class */ (function (_super) {
     __extends(Student, _super);
     function Student(userName, age, studentId) {
